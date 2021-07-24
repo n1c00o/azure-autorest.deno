@@ -1,0 +1,11 @@
+test/
+.devcontainer/
+.vscode/
+.git/
+.git*
+node_modules/
+.github/
+*.tar
+*.tgz
+*.log
+
