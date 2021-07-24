@@ -26,5 +26,8 @@
     "src"
   ],
   "repository": "github:n1c00o/azure-autorest.deno",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "autorest": "~3.3.2"
+  }
 }
