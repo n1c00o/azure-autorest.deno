@@ -1,0 +1,30 @@
+{
+  "name": "@autorest/deno",
+  "version": "1.0.0",
+  "description": "Azure AutoRest extension generator for Deno",
+  "scripts": {
+    "start": "echo \"todo, see https://github.com/Azure/autorest/blob/main/docs/developer/writing-an-extension.md\""
+  },
+  "systemRequirements": {
+    "deno": {
+      "version": ">=1.12.0"
+    }
+  },
+  "keywords": [
+    "deno",
+    "autorest",
+    "openapi",
+    "azure",
+    "microsoft"
+  ],
+  "homepage": "https://github.com/n1c00o/azure-autorest.deno#readme",
+  "bugs": {
+    "url": "https://github.com/n1c00o/azure-autorest.deno/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "repository": "github:n1c00o/azure-autorest.deno",
+  "private": false
+}
