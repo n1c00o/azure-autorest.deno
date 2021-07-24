@@ -8,4 +8,4 @@ node_modules/
 *.tar
 *.tgz
 *.log
-
+*_test.ts
